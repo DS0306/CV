@@ -11,4 +11,4 @@ You can view the CV online here:
 - Semantic HTML5 structure (`header`, `main`, `section`, `article`, `footer`)
 - SEO-friendly with `<meta>` description and Open Graph tags
 - Clean separation of content
-- Ready for CSS styling in the next step
+
